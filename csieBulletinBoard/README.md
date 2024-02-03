@@ -1,5 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/CY9aIhbI)
 ## SP2023_HW1_release
+
+#### Spec
+Spec: https://hackmd.io/@o17Ov-gQSHaIfKt6v4zz-Q/rk0GxsYTh
+
 #### Reminders
 You should not modify content under .github. If caught, you will receive a 0 for this assignment.
 
